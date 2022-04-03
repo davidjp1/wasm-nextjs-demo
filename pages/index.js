@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Nextjs WASM demo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       Hello Next.js
