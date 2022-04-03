@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn)."# wasm-nextjs-demo" 
+Demo showing how to run WASM files from node_modules within next.js projects
