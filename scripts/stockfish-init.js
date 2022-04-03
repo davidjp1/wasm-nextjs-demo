@@ -2,7 +2,7 @@ const fs = require('fs')
 
 const errorHandler = (err) => {
   if (err) {
-    console.error('Failed to copy over stockfish.js files');
+    console.error('Failed to copy over stockfish.js files from node_modules to public');
     throw err;
   }
 };
